@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.NullPointerException
+	at LibrarySystem.loadBorrowers(LibrarySystem.java:102)
+	at LibrarySystem.<init>(LibrarySystem.java:88)
+	at LibrarySystem.main(LibrarySystem.java:74)
